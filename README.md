@@ -1,2 +1,2 @@
 # Music-data-analysis-with-Pyspark
-In this project I have analysed a dataset related to a music service where users can listen to different songs. This dataset is containing two csv files listening.csv and genre.csv.
+In this project I have analysed a dataset related to a music service where users can listen to different songs. The dataset has two csv files listening.csv and genre.csv. Listening.csv(1Gb) file has the information about userID, song name, artist and the album name for the given song. Genre.csv(3Mb) file contains the information of artist and his/her related genre. I have applied some queries to extract useful information out of our data
